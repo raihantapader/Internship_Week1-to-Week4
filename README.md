@@ -1,1 +1,1 @@
-# BS_Week1_Project_Machine_Failure_prediction
+# Internship_Week1_Project_Machine_Failure_prediction
